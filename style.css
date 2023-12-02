@@ -55,7 +55,8 @@ section{
 .single-experience{
     box-shadow:10px 10px 40px grey;
     border-radius: 5px;
-    height: 60%;
+    height: 80%;
+    background-color: white;
 }
 
 .experience-area{
@@ -73,4 +74,8 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient( lightSalmon ,rgb(255, 71, 230));
     border-image-slice: 1;
+}
+
+p{
+    text-align: center;
 }
